@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**The easiest way into the universe is through a forest wilderness**
 Use the left arrow to go back!
